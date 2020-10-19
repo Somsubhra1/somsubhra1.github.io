@@ -652,7 +652,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/testimonials.png) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -959,6 +959,7 @@ footer .copyright li {
     margin: 0;
     padding: 0;
     line-height: 24px;
+    color: #fff;
 }
 .ie footer .copyright li {
    display: inline;
