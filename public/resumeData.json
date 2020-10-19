@@ -119,22 +119,16 @@
         "url": "https://somsubhra1.github.io/social-media-app/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Doctors Appointment App",
+        "category": "Doctors Appointment App built on MERN Stack",
+        "image": "doctors_appointment.png",
+        "url": "https://doctors-appointment.herokuapp.com/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Pencil Sketch",
+        "category": "Pencil Sketch Notebook created using OpenCV",
+        "image": "pencil_sketch.png",
+        "url": "https://github.com/Somsubhra1/Pencil-Sketch"
       }
     ]
   },
