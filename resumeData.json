@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name": "Somsubhra Das",
+    "occupation": "Backend Intern @ Dezignoo & Learnbird",
+    "description": "Full Stack MERN Developer",
+    "image": "Somsubhra_Das.jpg",
+    "bio": "My name is Somsubhra Das, I'm a Full Stack MERN Developer. Currently I'm working as a Backend Intern @ Dezignoo & Learnbird",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "das.somsubhra1@gmail.com",
+    "phone": "+91 9163975225",
+    "address": {
+      "street": "18/4, Biren Roy Road (West), Behala",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip": "700 034"
+    },
+    "website": "https://somsubhra1.github.io/",
+    "resumedownload": "Somsubhra_Das_Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/s0msubhradas",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/somsubhradas/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/somsubhra__das/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/somsubhra1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Skills I hone",
+    "education": [
+      {
+        "school": "University of Engineering & Management Kolkata",
+        "degree": "B.Tech in Computer Science & Engineering",
+        "graduated": "Pursuing",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Dezignoo",
+        "title": "Backend Developer Intern",
+        "years": "October 2020 - Present",
+        "description": "Developing Backend for a client project"
+      },
+      {
+        "company": "Learnbird",
+        "title": "Backend Developer",
+        "years": "April 2020 - Present",
+        "description": "Part-time job as Backend developer"
+      },
+      {
+        "company": "xShellz LLC",
+        "title": "Systems Administrator",
+        "years": "October 2016 - Present",
+        "description": "Part-time job as Systems Administrator"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "95%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "98%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Video conference App",
+        "category": "Video conferencing app built with NodeJS & Express JS",
+        "image": "video_conference.png",
+        "url": "https://vidconsom.herokuapp.com/"
+      },
+      {
+        "title": "Angular Social Media App",
+        "category": "Social Media App built using Angular and Firebase on backend",
+        "image": "Social_media_app.png",
+        "url": "https://somsubhra1.github.io/social-media-app/"
+      },
+      {
+        "title": "Doctors Appointment App",
+        "category": "Doctors Appointment App built on MERN Stack",
+        "image": "doctors_appointment.png",
+        "url": "https://doctors-appointment.herokuapp.com/"
+      },
+      {
+        "title": "Pencil Sketch",
+        "category": "Pencil Sketch Notebook created using OpenCV",
+        "image": "pencil_sketch.png",
+        "url": "https://github.com/Somsubhra1/Pencil-Sketch"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Somsubhra is an Excellent Full Stack MERN Developer. Great Pleasure working with him on various projects. Focused and hardworking!",
+        "user": "Kinjal Raykarmakar"
+      },
+      {
+        "text": "He is a talented full stack developer. He is passionate in making websites, desktop apps, mobile apps. He is very hardworking, disciplined loyal and focused . I worked with him in the same group and it was pleasure to work with him. He can handle web development projects with skills in frontend and backend. He is interested in technical development and always works on the tasks in time.",
+        "user": "Moyantri Koley"
+      },
+      {
+        "text": "Somsubhra is a very hard working boy. He always works on different technologies & also he is very good in coding. I have worked with him so i know that he is a very good team mate & he also have a very good leadership quality.",
+        "user": "Aritra Dutta"
+      }
+    ]
+  }
+}
