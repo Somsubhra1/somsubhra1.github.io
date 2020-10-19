@@ -19,7 +19,8 @@ export default function App() {
       cache: false,
       success: function (data) {
         setResume(data);
-      }.bind(this),
+        console.log(data);
+      },
       error: function (xhr, status, err) {
         console.log(err);
         alert(err);

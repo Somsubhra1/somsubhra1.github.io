@@ -135,12 +135,16 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Somsubhra is an Excellent Full Stack MERN Developer. Great Pleasure working with him on various projects. Focused and hardworking!",
+        "user": "Kinjal Raykarmakar"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "He is a talented full stack developer. He is passionate in making websites, desktop apps, mobile apps. He is very hardworking, disciplined loyal and focused . I worked with him in the same group and it was pleasure to work with him. He can handle web development projects with skills in frontend and backend. He is interested in technical development and always works on the tasks in time.",
+        "user": "Moyantri Koley"
+      },
+      {
+        "text": "Somsubhra is a very hard working boy. He always works on different technologies & also he is very good in coding. I have worked with him so i know that he is a very good team mate & he also have a very good leadership quality.",
+        "user": "Aritra Dutta"
       }
     ]
   }
