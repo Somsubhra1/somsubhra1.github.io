@@ -11,7 +11,7 @@ import Portfolio from "./Components/Portfolio";
 
 export default function App() {
   const [resume, setResume] = useState({});
-  const [loading, setLoading] = useState(true);
+  // const [loading, setLoading] = useState(true);
 
   const getResumeData = () => {
     $.ajax({
@@ -21,7 +21,7 @@ export default function App() {
       success: function (data) {
         setResume(data);
 
-        setLoading(false);
+        // setLoading(false);
         // console.log(data);
       },
       error: function (xhr, status, err) {
@@ -35,26 +35,26 @@ export default function App() {
     getResumeData();
   }, []);
 
-  if (loading) {
-    return (
-      <div
-        style={{ display: "flex", justifyContent: "center", marginTop: "50vh" }}
-        className="load-container"
-      >
-        <div id="loading"></div>
-      </div>
-    );
-  } else {
-    return (
-      <div className="App">
-        <Header data={resume.main} />
-        <About data={resume.main} />
-        <Resume data={resume.resume} />
-        <Portfolio data={resume.portfolio} />
-        <Testimonials data={resume.testimonials} />
-        <Contact data={resume.main} />
-        <Footer data={resume.main} />
-      </div>
-    );
-  }
+  // if (loading) {
+  //   return (
+  //     <div
+  //       style={{ display: "flex", justifyContent: "center", marginTop: "50vh" }}
+  //       className="load-container"
+  //     >
+  //       <div id="loading"></div>
+  //     </div>
+  //   );
+  // } else {
+  return (
+    <div className="App">
+      <Header data={resume.main} />
+      <About data={resume.main} />
+      <Resume data={resume.resume} />
+      <Portfolio data={resume.portfolio} />
+      <Testimonials data={resume.testimonials} />
+      <Contact data={resume.main} />
+      <Footer data={resume.main} />
+    </div>
+  );
+  // }
 }
