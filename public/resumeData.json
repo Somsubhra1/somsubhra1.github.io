@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Somsubhra Das",
-    "occupation": "Backend Intern @ Dezignoo & Learnbird",
-    "description": "Full Stack MERN Developer",
+    "occupation": "Lead Backend Developer Intern @ Dezignoo",
+    "description": "Full Stack Web Developer",
     "image": "Somsubhra_Das.jpg",
-    "bio": "My name is Somsubhra Das, I'm a Full Stack MERN Developer. Currently I'm working as a Backend Intern @ Dezignoo & Learnbird",
+    "bio": "My name is Somsubhra Das, I'm a Full Stack Web Developer. Currently I'm working as a Lead Backend Developer Intern @ Dezignoo",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "contact@somsubhra.co",
     "phone": "+91 9163975225",
@@ -15,7 +15,7 @@
       "zip": "700 034"
     },
     "website": "https://somsubhra.co/",
-    "resumedownload": "Somsubhra_Das_Resume.pdf",
+    "resumedownload": "https://www.dropbox.com/s/1ku6oddkc3nbgzt/Somsubhra%20Das%20CV.pdf",
     "social": [
       {
         "name": "facebook",
@@ -36,6 +36,11 @@
         "name": "github",
         "url": "http://github.com/somsubhra1",
         "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/Somsubhra1CP",
+        "className": "fa fa-twitter"
       }
     ]
   },
@@ -52,21 +57,33 @@
     "work": [
       {
         "company": "Dezignoo",
-        "title": "Backend Developer Intern",
+        "title": "Lead Backend Developer Intern",
         "years": "October 2020 - Present",
-        "description": "Developing Backend for a client project"
+        "description": "Developing Backend for a Knock-A-Doc App"
+      },
+      {
+        "company": "Unigo Cabs",
+        "title": "Backend Developer Intern",
+        "years": "January 2021 - April 2021",
+        "description": "Developing Backend for Unigo Cabs App"
+      },
+      {
+        "company": "ThirdX Design",
+        "title": "Backend Developer Engineer",
+        "years": "December 2020 - February 2021",
+        "description": "Developing Backend for a Browwn App"
+      },
+      {
+        "company": "Simpheal",
+        "title": "Backend Developer Intern",
+        "years": "December 2020 - January 2020",
+        "description": "Developing Backend for a Knocl-A-Doc App"
       },
       {
         "company": "Learnbird",
         "title": "Backend Developer",
         "years": "April 2020 - Present",
-        "description": "Part-time job as Backend developer"
-      },
-      {
-        "company": "xShellz LLC",
-        "title": "Systems Administrator",
-        "years": "October 2016 - Present",
-        "description": "Part-time job as Systems Administrator"
+        "description": "Part-time job as Backend Developer"
       }
     ],
     "skills": [
@@ -91,6 +108,10 @@
         "level": "98%"
       },
       {
+        "name": "Django",
+        "level": "70%"
+      },
+      {
         "name": "Angular",
         "level": "60%"
       },
@@ -106,6 +127,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Django Blog App",
+        "category": "A Blog Built on Django Framework",
+        "image": "django-blog.png",
+        "url": "https://post-it-out.herokuapp.com/"
+      },
       {
         "title": "Video conference App",
         "category": "Video conferencing app built with NodeJS & Express JS",
